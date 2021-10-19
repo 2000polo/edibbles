@@ -1,0 +1,42 @@
+.home-section-wrapper{
+    width: 100vw;
+    height: 100vh;
+}
+
+.banner-wrapper{
+    text-align: center;
+    padding: 12vh 10% 3vh;
+}
+
+.banner-head{
+    font-size: 1.2rem;
+}
+
+.banner-para{
+    margin-top: 2rem;
+    color: grey;
+    font-weight: 500;
+}
+
+.banner-btn{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: end;
+    margin-top: 1rem;
+}
+
+.def-menu{
+    padding: .6rem 2rem;
+    background-color: rgb(255, 238, 0);
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.date-food{
+    padding: 0 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

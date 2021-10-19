@@ -1,0 +1,19 @@
+.date-box-wrapper{
+    width: 150px;
+    /* position: relative; */
+    /* padding-left: 29px; */
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(241, 241, 241);
+    padding: .8rem .8rem;
+    border-radius: 7px;
+}
+
+.custom-date{
+    background-color: #379e2a;
+    border: none;
+    border-radius: 5px;
+    padding: .5rem 0;
+    color: white;
+}
+
