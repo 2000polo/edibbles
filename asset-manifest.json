@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/edibbles/static/css/main.ee418587.chunk.css",
-    "main.js": "/edibbles/static/js/main.b7afc21c.chunk.js",
-    "main.js.map": "/edibbles/static/js/main.b7afc21c.chunk.js.map",
+    "main.js": "/edibbles/static/js/main.a5e20e92.chunk.js",
+    "main.js.map": "/edibbles/static/js/main.a5e20e92.chunk.js.map",
     "runtime-main.js": "/edibbles/static/js/runtime-main.1f35338f.js",
     "runtime-main.js.map": "/edibbles/static/js/runtime-main.1f35338f.js.map",
     "static/js/2.4f07f8bd.chunk.js": "/edibbles/static/js/2.4f07f8bd.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.1f35338f.js",
     "static/js/2.4f07f8bd.chunk.js",
     "static/css/main.ee418587.chunk.css",
-    "static/js/main.b7afc21c.chunk.js"
+    "static/js/main.a5e20e92.chunk.js"
   ]
 }
