@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/edibbles/static/css/main.ee418587.chunk.css",
-    "main.js": "/edibbles/static/js/main.f80042ea.chunk.js",
-    "main.js.map": "/edibbles/static/js/main.f80042ea.chunk.js.map",
+    "main.js": "/edibbles/static/js/main.bb7549f9.chunk.js",
+    "main.js.map": "/edibbles/static/js/main.bb7549f9.chunk.js.map",
     "runtime-main.js": "/edibbles/static/js/runtime-main.1f35338f.js",
     "runtime-main.js.map": "/edibbles/static/js/runtime-main.1f35338f.js.map",
-    "static/js/2.c02c0d6e.chunk.js": "/edibbles/static/js/2.c02c0d6e.chunk.js",
-    "static/js/2.c02c0d6e.chunk.js.map": "/edibbles/static/js/2.c02c0d6e.chunk.js.map",
+    "static/js/2.4f07f8bd.chunk.js": "/edibbles/static/js/2.4f07f8bd.chunk.js",
+    "static/js/2.4f07f8bd.chunk.js.map": "/edibbles/static/js/2.4f07f8bd.chunk.js.map",
     "index.html": "/edibbles/index.html",
     "static/css/main.ee418587.chunk.css.map": "/edibbles/static/css/main.ee418587.chunk.css.map",
-    "static/js/2.c02c0d6e.chunk.js.LICENSE.txt": "/edibbles/static/js/2.c02c0d6e.chunk.js.LICENSE.txt",
+    "static/js/2.4f07f8bd.chunk.js.LICENSE.txt": "/edibbles/static/js/2.4f07f8bd.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/edibbles/static/media/pexels-william-choquette-2641886.4f728127.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1f35338f.js",
-    "static/js/2.c02c0d6e.chunk.js",
+    "static/js/2.4f07f8bd.chunk.js",
     "static/css/main.ee418587.chunk.css",
-    "static/js/main.f80042ea.chunk.js"
+    "static/js/main.bb7549f9.chunk.js"
   ]
 }
