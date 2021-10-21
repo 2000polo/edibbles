@@ -21,7 +21,7 @@ function Navbar() {
     }
 
     const loginHandler = () =>{
-        history.push("/login");
+        history.push("/");
         console.log("clicked...")
     }
     

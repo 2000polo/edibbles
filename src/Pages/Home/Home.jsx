@@ -5,7 +5,7 @@ import Productcard from '../../components/Productcards/Productcard';
 import { globalDataContext } from '../../GlobalContext/GlobalContext';
 import Footer from '../../components/Footer/Footer';
 import './Home.css';
-import { useHistory } from 'react-router';
+import { useHistory } from 'react-router-dom';
 
 const Home = () => {
 

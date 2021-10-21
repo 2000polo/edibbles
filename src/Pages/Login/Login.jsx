@@ -8,7 +8,7 @@ function Signin() {
     const history = useHistory();
 
     const home = () =>{
-        history.push('/home')
+        history.push("/home")
     }
     return (
         <div className="signin-wrapper">
@@ -21,7 +21,7 @@ function Signin() {
                         <input type="email" className="email-field" placeholder="Email or Phone number" />
                         <input type="password" className="password-field" placeholder="Password" />
                     </div>
-                    <button onClick={home} className="s-signin">Sign in</button>
+                    <button onClick={()=>{home()}} className="s-signin">Sign in</button>
 
                     <div className="check-help">
                         <div className="check-box">
