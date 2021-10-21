@@ -3,10 +3,10 @@ import './Checkbox.css';
 
 const Checkbox = (props) => {
 
-    console.log(props.id);
+    // console.log(props.id);
     return (
-        <div classNameName="checkbox-wrapper">
-            <svg classNameName="checkbox-symbol" style={{display:"none"}}>
+        <div className="checkbox-wrapper">
+            <svg className="checkbox-symbol" style={{display:"none"}}>
                 <symbol id="check" viewbox="0 0 12 10">
                     <polyline
                     points="1.5 6 4.5 9 10.5 1"
@@ -19,7 +19,7 @@ const Checkbox = (props) => {
 
             <div className="checkbox-container">
                 <input value={props.date} className="checkbox-input" id={props.id} type="checkbox" />
-                <label className="checkbox" for={props.id}>
+                <label onClick={(e)=>{console.log(e)}} className="checkbox"  for={props.id}>
                     <span>
                     <svg width="12px" height="10px">
                         <use href="#check"></use>
