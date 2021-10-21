@@ -5,6 +5,7 @@ import Home from './Pages/Home/Home';
 import Donepage from './Pages/Donepage/Donepage';
 import { useContext } from 'react';
 import { globalDataContext } from './GlobalContext/GlobalContext';
+import Main from './Pages/Main/Main';
 
 function App() {
 
@@ -38,9 +39,13 @@ function App() {
         <Route exact path='/'>
           <Login></Login>
         </Route>
-        <Route path='/home'>
+        <Route exact path='/main1'>
+          <Main></Main>
+        </Route>
+        <Route path='/main'>
           <Home></Home>
         </Route>
+
         <Route path='/donepage'>
           <Donepage dateArray={dateArray}></Donepage>
         </Route>

@@ -16,12 +16,12 @@ function Navbar() {
     const history = useHistory();
 
     const homeHandler = () =>{
-        history.push("/home");
+        history.push('./menu');
         setMenu(!menu);
     }
 
     const loginHandler = () =>{
-        history.push("/");
+        history.push('./');
         console.log("clicked...")
     }
     

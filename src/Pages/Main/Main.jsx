@@ -1,13 +1,13 @@
-import React, { useState, useContext } from 'react';
+import React from 'react'
 import Datebox from '../../components/Datebox/Datebox';
 import Navbar from '../../components/Navbar/Navbar';
 import Productcard from '../../components/Productcards/Productcard';
 import { globalDataContext } from '../../GlobalContext/GlobalContext';
 import Footer from '../../components/Footer/Footer';
-import './Home.css';
+import './Main.css';
 import { useHistory } from 'react-router-dom';
 
-const Home = () => {
+function Main() {
 
     const { setDateBox, dateBox } = useContext(globalDataContext);
 
@@ -94,4 +94,4 @@ const Home = () => {
     )
 }
 
-export default Home;
+export default Main;

@@ -8,7 +8,7 @@ function Signin() {
     const history = useHistory();
 
     const home = () =>{
-        history.push("/home")
+        history.push('./main1')
     }
     return (
         <div className="signin-wrapper">
